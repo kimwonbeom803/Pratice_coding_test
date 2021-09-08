@@ -15,7 +15,11 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <ClCompile Include="상하좌우.cpp">
+=======
+    <ClCompile Include="1이될때까지.cpp">
+>>>>>>> 8f2015ca48ae90b0f7f9aa545375a93cf161f239
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
