@@ -141,9 +141,9 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-<<<<<<< HEAD
-=======
-  <ItemGroup>
+	>>>>>>> HEAD
+	=======
+	<ItemGroup>
     <ClCompile Include="1이될때까지.cpp" />
   </ItemGroup>
 >>>>>>> 8f2015ca48ae90b0f7f9aa545375a93cf161f239
